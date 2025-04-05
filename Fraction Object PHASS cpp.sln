@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraction Object PHASS cpp", "Fraction Object PHASS cpp\Fraction Object PHASS cpp.vcxproj", "{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Debug|x64.ActiveCfg = Debug|x64
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Debug|x64.Build.0 = Debug|x64
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Debug|x86.Build.0 = Debug|Win32
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Release|x64.ActiveCfg = Release|x64
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Release|x64.Build.0 = Release|x64
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Release|x86.ActiveCfg = Release|Win32
+		{EC4C4DAF-032F-46BC-B839-FF99FD826EB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {040168C5-3D88-45E3-81D6-31E93C823B86}
+	EndGlobalSection
+EndGlobal
